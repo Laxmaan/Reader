@@ -1,0 +1,24 @@
+Version 4
+The app now needs a verifiable Google Account.
+Added Splash Screen and a new Navigation Drawer based home page.
+Added an Orange Checklist
+Added Purple Note references.
+Added Search functionality
+
+Version 3
+Limited max date to Nov 14 2017.
+Due to all notes being available, the app no longer needs internet connection; The data is available locally.
+Swiping left and right from a note now views the previous or next note.
+On Pressing Back after swiping, the calendar is set to the date of the last viewed note.
+Notes can now be sorted by colour.
+Added Night Mode
+
+Version 2
+Redesigned the Viewing activity.
+The notes now appear as larger white text on a larger coloured background.
+The app doesn't need to be closed to refresh notes. You only need to go back to the home page.
+
+Version 1
+The Note Reader app helps view notes from the jar.
+You choose a date from the calendar. And if that date has a note, it is displayed.
+Note content is updated from the twin Note Writer App.

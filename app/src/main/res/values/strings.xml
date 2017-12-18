@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Reader</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_option_1">View Notes</string>
+    <string name="menu_option_2">Orange Checklist</string>
+    <string name="menu_option_3">Purple Quotes</string>
+    <string name="menu_option_4">Search Content</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="server_client_ID">884788269703-viiqpa8c592iqb9v2i6evp50dkjhad83.apps.googleusercontent.com</string>
+    <string name="request_google_sign">Hi!\nThis app needs you to sign in with your Google account
+    for access to all its features.</string>
+    <string name="revoke_text">You also have the option to revoke access, in which case you\'ll have
+    to provide permissions again, the next time you sign in.</string>
+
+</resources>

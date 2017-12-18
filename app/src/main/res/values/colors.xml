@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg">#00000000</color>
+    <color name="ss">#007700</color>
+    <color name="ripple">#c3979191</color>
+    <color name="calendarTint">#ed0060af</color>
+    <color name="calendarTint2">#ed1f4b74</color>
+    <color name="noteOrange">#dcff7f00</color>
+    <color name="notePurple">#650999</color>
+</resources>
